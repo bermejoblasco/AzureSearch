@@ -20,7 +20,7 @@
                 ISBN = "9781430224792",
                 Titulo = "Windows Azure Platform (Expert's Voice in .NET)",
                 Categoria = "Comic",
-                Autores = new List<string>() { "Redkar", "Tejasw" },
+                Autores = new List<string>() {"Redkar", "Tejasw" },
                 FechaPublicacion = DateTimeOffset.Now.AddDays(-2)
             });
 
@@ -29,7 +29,7 @@
                 ISBN = "9780470506387",
                 Titulo = "Cloud Computing with the Windows Azure Platform",
                 Categoria = "Terror",
-                Autores = new List<string>() { "Roger Jennings" },
+                Autores = new List<string>() { "Roger Jennings"},
                 FechaPublicacion = DateTimeOffset.Now
             });
 
@@ -38,7 +38,7 @@
                 ISBN = "9780889222861",
                 Titulo = "Azure Blues",
                 Categoria = "Terror",
-                Autores = new List<string>() { "Gilbert", "Gerry" },                
+                Autores = new List<string>() { "Gilbert", "Gerry", "Rogery Landing"},                
                 FechaPublicacion = DateTimeOffset.Now.AddMonths(-3)
             });
 
